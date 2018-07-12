@@ -26,4 +26,4 @@ or you can download this project, start a local HTTP server with e.g.: Python, X
 
 ## Contributing
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+For details, check out [contributing.md](contributing.md).
