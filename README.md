@@ -14,7 +14,7 @@ For the **Restaurant Reviews** projects, I had to incrementally convert a static
 
 ## How to run this test
 You can run this test the following link: https://kovacsl99.github.io/restaurant-review-app/ 
-or you can download this project, start a local HTTP server with e.g.: Python, Xamp, Wamp amd open the index.html in your browser on localhost.
+or you can download this project, start a local HTTP server with e.g.: Python, Xamp, Wamp and open the index.html in your browser on localhost.
 
 ## Used technologies
 - HTML5
