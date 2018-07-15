@@ -25,7 +25,8 @@ self.addEventListener('install', function(event) {
             './sw.js',
             'https://unpkg.com/leaflet@1.3.1/dist/leaflet.css',
             'https://unpkg.com/leaflet@1.3.1/dist/leaflet.js'
-            //'https://normalize-css.googlecode.com/svn/trunk/normalize.css',
+            'index.html',
+            'restaurant.html'
           ]
         );
       })
