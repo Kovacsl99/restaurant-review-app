@@ -24,7 +24,7 @@ self.addEventListener('install', function(event) {
             './js/restaurant_info.js',
             './sw.js',
             'https://unpkg.com/leaflet@1.3.1/dist/leaflet.css',
-            'https://unpkg.com/leaflet@1.3.1/dist/leaflet.js'
+            'https://unpkg.com/leaflet@1.3.1/dist/leaflet.js',
             'index.html',
             'restaurant.html'
           ]
